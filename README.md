@@ -1,2 +1,3 @@
-# Story-Project-C-
-This is a Story Project written in C# that allows you to gather user input, practice strong concatenation, and input validation. A great way to learn and hone your skills as a software developer! 
+Project - Story Generator written in C#
+
+Description - This is a Story Generator written in C#. This is a great project to allow you to generate stories of honing your C# skills because you can gather user input, practice string concatenation, and input validation. All these skills are a great way to grow as a Software Developer. 
